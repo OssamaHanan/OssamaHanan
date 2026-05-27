@@ -188,9 +188,7 @@ I am currently improving in:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonUserOn&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Most used languages" />
 </p>
-
 ---
-
 ## What I Am Looking For
 
 I am open to opportunities related to:
@@ -217,9 +215,8 @@ I am still learning and improving, but I am serious about building real projects
   <b>Learning by building. Improving through controlled practice. Building AI tools that help students think better.</b>
 </p>
 
-<p align="center">
   <a href="https://github.com/DonUserOn">
-    <img src="https://img.shields.io/badge/GitHub-DonUserOn-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -228,3 +225,4 @@ I am still learning and improving, but I am serious about building real projects
 <p align="center">
   ⭐ "Consistency + Smart Work = Success"
 </p>
+
