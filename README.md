@@ -182,9 +182,12 @@ I am currently improving in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonUserOn&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonUserOn&theme=radical&hide_border=true" alt="Ossama Hanan GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonUserOn&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
+</p>
 ---
 ## What I Am Looking For
 
