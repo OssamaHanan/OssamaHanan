@@ -178,7 +178,7 @@ I am currently improving in:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonUserOn&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Ossama Hanan GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DonUserOn&theme=radical" alt="Ossama Hanan GitHub stats" />
 </p>
 
 <p align="center">
@@ -186,9 +186,11 @@ I am currently improving in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonUserOn&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonUserOn&theme=radical" alt="Most used languages" />
 </p>
+
 ---
+
 ## What I Am Looking For
 
 I am open to opportunities related to:
