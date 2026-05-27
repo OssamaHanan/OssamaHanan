@@ -60,41 +60,23 @@ NeuroNova is being developed as both a learning platform and a long-term AI/soft
 
 ## Research
 
-I am currently working on research related to **controlled AI-assisted development** and how students can use AI coding assistants more safely and effectively in software projects.
+I am currently working on student research related to:
 
-### Submitted Paper
-
-**Title:**  
-*Controlled AI-Assisted Development: Failure Modes and Mitigation Strategies in Student Software Projects*
-
-**Submitted to:**  
-AIFE 2026, Singapore
-
-### Research Focus
-
-My research studies how AI coding assistants behave when students use them in controlled versus uncontrolled workflows.
-
-The work compares **16 recorded experiments**, including controlled and uncontrolled AI-assisted development cases.
-
-### Main Workflow
-
-```text
-Inspect → Diagnose → Implement minimally → Test → Review → Fix narrowly
-```
-
-### Research Topics
-
+- AI-assisted software development
 - AI coding assistants
-- Human-AI collaboration
-- Programming education
-- Student software engineering habits
-- Failure modes in AI-assisted development
-- Workflow safety and developer control
-- Responsible AI use in student projects
+- human-AI collaboration
+- programming education
+- workflow safety
+- software engineering education
 
-The main idea behind this research is that AI can be useful for software development, but students need structured workflows, careful testing, and clear responsibility boundaries to avoid errors and overreliance.
+Current public research repository:
 
----
+- Controlled AI-Assisted Development:
+  https://github.com/DonUserOn/controlled-ai-assisted-development
+
+Current project:
+
+- NeuroNova — AI learning platform for students
 
 ## Tech Stack
 
