@@ -1,170 +1,92 @@
-<h1 align="center">Hi, I'm HANAN OSSAMA 👋</h1>
-
-<h3 align="center">
-Artificial Intelligence Student | AI Learning Platforms | Human-AI Collaboration | Software Engineering
-</h3>
+<h1 align="center">Ossama Hanan</h1>
 
 <p align="center">
-  <a href="mailto:2007ossamahanan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2007ossamahanan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DonUserOn">
-    <img src="https://img.shields.io/badge/GitHub-DonUserOn-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <strong>Founder @ SENTARYN | AI Systems | Software Engineering | AI Agents &amp; Security</strong><br>
+  AI Student @ Harbin Institute of Technology<br>
+  AI Systems · Software Engineering · AI Agents · Security
 </p>
 
----
+<p align="center">
+  <a href="https://sentaryn.com">SENTARYN</a> ·
+  <a href="https://github.com/DonUserOn/sentaryn-showcase">Public Showcase</a> ·
+  <a href="https://www.linkedin.com/in/ossamahanan/">LinkedIn</a> ·
+  <a href="mailto:2007ossamahanan@gmail.com">Email</a>
+</p>
 
-## About Me
+I am an Artificial Intelligence student at Harbin Institute of Technology and founder of **SENTARYN**, an independent authority layer for AI-generated software changes.
 
-I am an **Artificial Intelligence student at Harbin Institute of Technology**, focused on building practical AI systems, learning software engineering deeply, and exploring how students can use AI coding assistants safely and effectively.
+My work focuses on building dependable AI and software systems, with particular interest in agent infrastructure, software authority, developer tooling, security, and human-AI collaboration.
 
-My current work combines:
+## SENTARYN
 
-- AI-assisted learning platforms
-- Controlled AI-assisted software development
+> **Authority for AI-generated software changes.**<br>
+> Control what AI changes in your software.
+
+SENTARYN evaluates whether an AI-generated software change remained within the authority it was given. It separates repository access from change-specific authority and makes the relationship between intent, scope, evidence, and outcome explicit.
+
+**Access is not Authority.**
+
+```text
+Requested → Authorized → Actual → Evidence → Decision
+```
+
+[Website](https://sentaryn.com) · [Public showcase](https://github.com/DonUserOn/sentaryn-showcase) · [Install the GitHub App](https://github.com/apps/sentaryn/installations/new)
+
+## What I’m Building / Technical Interests
+
+- AI agents and agent-independent control layers
+- Developer infrastructure and GitHub tooling
+- Software engineering and developer productivity
+- AI security, authority, and governance
+- Distributed systems
 - Human-AI collaboration
-- Programming education
-- Safe workflows for student software projects
-- Python and C++ project development
-
-I am especially interested in building tools that help students learn, debug, practice, and improve with AI while keeping the human developer in control.
-
----
-
-## Featured Project: NeuroNova
-
-### NeuroNova — Student-Focused AI Learning Platform
-
-**NeuroNova** is my main project: an AI learning platform designed to support students with explanations, study guidance, programming help, exam preparation, and structured learning workflows.
-
-The goal is not only to generate answers, but to help students understand concepts step by step and improve their learning process.
-
-**Current focus areas:**
-
-- AI tutoring and guided explanations
-- Homework and exam-support workflows
-- Programming help and debugging support
-- Multilingual learning support
-- Study modes and learning tools
-- Safer AI-assisted development workflows
-- Student-centered user experience
-
-**Project direction:**
-
-NeuroNova is being developed as both a learning platform and a long-term AI/software engineering portfolio project. It reflects my interest in combining education, AI systems, and practical software development.
-
-> Main idea: AI should guide students, not replace their thinking.
-
----
-
-## Research
-
-I am currently working on student research related to:
-
-- AI-assisted software development
-- AI coding assistants
-- human-AI collaboration
-- programming education
-- workflow safety
-- software engineering education
-
-Current public research repository:
-
-- Controlled AI-Assisted Development:
-  https://github.com/DonUserOn/controlled-ai-assisted-development
-
-Current project:
-
-- NeuroNova — AI learning platform for students
-
-## Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/AI%20APIs-Model%20Integration-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Workflows-purple?style=for-the-badge"/>
-
-</p>
-
----
+- Reliable workflows for AI-generated software changes
 
 ## Selected Projects
 
-### NeuroNova
+### [SENTARYN Showcase](https://github.com/DonUserOn/sentaryn-showcase)
 
-Student-focused AI learning platform for explanations, programming help, exam preparation, and structured study support.
+Public product and architecture showcase for SENTARYN, covering its authority model, Shadow Mode, Authority Map, and Change Passport concepts without exposing proprietary implementation details.
 
-**Main themes:** AI tutoring, student learning, workflow design, AI-assisted development, education technology.
+### [NeuroNova Showcase](https://github.com/DonUserOn/NeuroNova-Showcase)
 
----
+Public showcase for an AI study assistant and learning platform organized around an **Ask → Save → Practice → Review → Track Progress** workflow. The showcased prototype includes tutoring, notes, practice, planning, and progress features.
 
-### AI Study Assistant
+### [Python Banking Program](https://github.com/DonUserOn/-Python-Banking-Program)
 
-A structured prompt-based learning assistant designed to generate explanations, exercises, and study support.
+Terminal-based Python application with PIN login, deposits, withdrawals, transfers, transaction history, input validation, and function-based organization.
 
-Repository:  
-https://github.com/DonUserOn/ai-study-assistant
+### [Image File Processing](https://github.com/DonUserOn/Image-File-Processing)
 
----
+C/C++ desktop application using EasyX for 24-bit BMP parsing and pixel-level processing, including grayscale conversion, Sobel edge detection, sharpening, noise generation, median filtering, and image export.
 
-## Earlier Learning Projects
+### [Python Encryption Program](https://github.com/DonUserOn/python-encryption-program)
 
-These projects helped me practice programming fundamentals, algorithms, input validation, modular thinking, and basic system design.
+Educational substitution-cipher project with key generation, file persistence, encryption, and decryption. It demonstrates foundational security concepts and is explicitly not presented as production cryptography.
 
-### Credit Card Validator — Python & C++
+## Tech Stack
 
-Implementation of the Luhn Algorithm with input validation and clean program logic.
+- **Languages:** Python, C, C++
+- **AI and data:** Streamlit, AI API integration, NumPy, Pandas, Matplotlib
+- **Development:** Git, GitHub, Visual Studio, EasyX
 
-Repository:  
-https://github.com/DonUserOn/-Credit-Card-Validator-in-Python
+## Education
 
----
+**Harbin Institute of Technology**<br>
+Bachelor of Artificial Intelligence<br>
+September 2025 – September 2029
 
-### FinTech Banking System — C++
+## 2027 Internship Interests
 
-A basic banking system project with PIN authentication, transaction handling, balance management, and credit-card validation logic.
+I am open to selective 2027 internship opportunities in:
 
-Repository:  
-https://github.com/DonUserOn/-FinTech-Banking-System-C-
-
----
-
-### Encryption Program — Python
-
-A menu-driven encryption/decryption program using a substitution cipher with key generation, saving, and loading.
-
-Repository:  
-https://github.com/DonUserOn/python-encryption-program
-
----
-
-## Current Learning Focus
-
-I am currently improving in:
-
-- Python software development
-- C and C++ programming fundamentals
-- AI application development
-- AI API integration
-- Software engineering workflows
-- Data analysis with NumPy, Pandas, and Matplotlib
-- Git, GitHub, and project documentation
-- Research writing and academic communication
-- Human-AI collaboration in programming
-
----
+- Software engineering
+- AI systems
+- AI agents
+- Developer infrastructure
+- Security engineering
+- Distributed systems
+- Developer productivity and AI tooling
 
 ## Languages
 
@@ -173,58 +95,8 @@ I am currently improving in:
 - English — Professional working proficiency
 - Chinese — Beginner / A2
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DonUserOn&theme=radical" alt="Ossama Hanan GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DonUserOn&theme=radical&hide_border=true" alt="Ossama Hanan GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonUserOn&theme=radical" alt="Most used languages" />
-</p>
-
----
-
-## What I Am Looking For
-
-I am open to opportunities related to:
-
-- AI and software engineering internships
-- Student research collaboration
-- AI-assisted learning tools
-- Programming education projects
-- Human-AI collaboration research
-- Early-stage AI product development
-
-I am still learning and improving, but I am serious about building real projects, writing better code, and developing strong engineering habits.
-
----
-
 ## Contact
 
-📧 **Email:** 2007ossamahanan@gmail.com  
-🔗 **GitHub:** https://github.com/DonUserOn
-
----
-
-<p align="center">
-  <b>Learning by building. Improving through controlled practice. Building AI tools that help students think better.</b>
-</p>
-
-  <a href="https://github.com/DonUserOn">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ "Consistency + Smart Work = Success"
-</p>
-
+- **LinkedIn:** [linkedin.com/in/ossamahanan](https://www.linkedin.com/in/ossamahanan/)
+- **GitHub:** [github.com/DonUserOn](https://github.com/DonUserOn)
+- **Email:** [2007ossamahanan@gmail.com](mailto:2007ossamahanan@gmail.com)
