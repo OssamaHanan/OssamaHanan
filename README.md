@@ -98,5 +98,5 @@ I am open to selective 2027 internship opportunities in:
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/ossamahanan](https://www.linkedin.com/in/ossamahanan/)
-- **GitHub:** [github.com/DonUserOn](https://github.com/OssamaHanan)
+- **GitHub:** [github.com/OssamaHanan](https://github.com/OssamaHanan)
 - **Email:** [2007ossamahanan@gmail.com](mailto:2007ossamahanan@gmail.com)
