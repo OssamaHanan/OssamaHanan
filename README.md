@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://sentaryn.com">SENTARYN</a> ·
-  <a href="https://github.com/DonUserOn/sentaryn-showcase">Public Showcase</a> ·
+  <a href="https://github.com/OssamaHanan/sentaryn-showcase">Public Showcase</a> ·
   <a href="https://www.linkedin.com/in/ossamahanan/">LinkedIn</a> ·
   <a href="mailto:2007ossamahanan@gmail.com">Email</a>
 </p>
@@ -30,7 +30,7 @@ SENTARYN evaluates whether an AI-generated software change remained within the a
 Requested → Authorized → Actual → Evidence → Decision
 ```
 
-[Website](https://sentaryn.com) · [Public showcase](https://github.com/DonUserOn/sentaryn-showcase) · [Install the GitHub App](https://github.com/apps/sentaryn/installations/new)
+[Website](https://sentaryn.com) · [Public showcase](https://github.com/OssamaHanan/sentaryn-showcase) · [Install the GitHub App](https://github.com/apps/sentaryn/installations/new)
 
 ## What I’m Building / Technical Interests
 
@@ -44,23 +44,23 @@ Requested → Authorized → Actual → Evidence → Decision
 
 ## Selected Projects
 
-### [SENTARYN Showcase](https://github.com/DonUserOn/sentaryn-showcase)
+### [SENTARYN Showcase](https://github.com/OssamaHanan/sentaryn-showcase)
 
 Public product and architecture showcase for SENTARYN, covering its authority model, Shadow Mode, Authority Map, and Change Passport concepts without exposing proprietary implementation details.
 
-### [NeuroNova Showcase](https://github.com/DonUserOn/NeuroNova-Showcase)
+### [NeuroNova Showcase](https://github.com/OssamaHanan/NeuroNova-Showcase)
 
 Public showcase for an AI study assistant and learning platform organized around an **Ask → Save → Practice → Review → Track Progress** workflow. The showcased prototype includes tutoring, notes, practice, planning, and progress features.
 
-### [Python Banking Program](https://github.com/DonUserOn/-Python-Banking-Program)
+### [Python Banking Program](https://github.com/OssamaHanan/-Python-Banking-Program)
 
 Terminal-based Python application with PIN login, deposits, withdrawals, transfers, transaction history, input validation, and function-based organization.
 
-### [Image File Processing](https://github.com/DonUserOn/Image-File-Processing)
+### [Image File Processing](https://github.com/OssamaHanan/Image-File-Processing)
 
 C/C++ desktop application using EasyX for 24-bit BMP parsing and pixel-level processing, including grayscale conversion, Sobel edge detection, sharpening, noise generation, median filtering, and image export.
 
-### [Python Encryption Program](https://github.com/DonUserOn/python-encryption-program)
+### [Python Encryption Program](https://github.com/OssamaHanan/python-encryption-program)
 
 Educational substitution-cipher project with key generation, file persistence, encryption, and decryption. It demonstrates foundational security concepts and is explicitly not presented as production cryptography.
 
@@ -98,5 +98,5 @@ I am open to selective 2027 internship opportunities in:
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/ossamahanan](https://www.linkedin.com/in/ossamahanan/)
-- **GitHub:** [github.com/DonUserOn](https://github.com/DonUserOn)
+- **GitHub:** [github.com/DonUserOn](https://github.com/OssamaHanan)
 - **Email:** [2007ossamahanan@gmail.com](mailto:2007ossamahanan@gmail.com)
