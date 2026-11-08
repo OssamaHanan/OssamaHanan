@@ -56,10 +56,6 @@ Research on controlled AI-assisted software development in student projects, ana
 
 Public showcase for an AI study assistant and learning platform organized around an **Ask → Save → Practice → Review → Track Progress** workflow. The showcased prototype includes tutoring, notes, practice, planning, and progress features.
 
-### [Python Banking Program](https://github.com/OssamaHanan/-Python-Banking-Program)
-
-Terminal-based Python application with PIN login, deposits, withdrawals, transfers, transaction history, input validation, and function-based organization.
-
 ### [Image File Processing](https://github.com/OssamaHanan/Image-File-Processing)
 
 C/C++ desktop application using EasyX for 24-bit BMP parsing and pixel-level processing, including grayscale conversion, Sobel edge detection, sharpening, noise generation, median filtering, and image export.
