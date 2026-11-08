@@ -48,6 +48,10 @@ Requested → Authorized → Actual → Evidence → Decision
 
 Public product and architecture showcase for SENTARYN, covering its authority model, Shadow Mode, Authority Map, and Change Passport concepts without exposing proprietary implementation details.
 
+### [Controlled AI-Assisted Development — Research](https://github.com/OssamaHanan/controlled-ai-assisted-development)
+
+Research on controlled AI-assisted software development in student projects, analyzing **16 recorded experiments** (10 controlled and 6 uncontrolled) to study failure modes, workflow control, and risk mitigation through human oversight, targeted changes, testing, and review.
+
 ### [NeuroNova Showcase](https://github.com/OssamaHanan/NeuroNova-Showcase)
 
 Public showcase for an AI study assistant and learning platform organized around an **Ask → Save → Practice → Review → Track Progress** workflow. The showcased prototype includes tutoring, notes, practice, planning, and progress features.
